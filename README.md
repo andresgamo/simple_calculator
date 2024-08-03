@@ -16,7 +16,7 @@ A simple calculator API built with Flask and Flask-RESTful that performs basic a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/simple_calculator.git
+    git clone https://github.com/andresgamo/simple_calculator.git
     cd simple_calculator
     ```
 
